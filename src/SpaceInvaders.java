@@ -3,5 +3,7 @@ class Main {
         System.out.println("askflhajhsfjasfjasfj asjfojasfjasof");
         System.out.println("dsdngdsjkngsd");
         //kfjaskfjlafjlaskjfa
+
+        // Bu kod satırını mehmet ekledi
     }
 }
