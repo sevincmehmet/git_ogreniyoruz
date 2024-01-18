@@ -5,7 +5,15 @@ public class SpaceInvaders extends JFrame  {
 
     public SpaceInvaders() {
 
-        initUI();
+        initUI();// Bu kod satırını mehmet ekledi
+
+    }
+
+    public void Sum(int a,int b){
+        int top=0;
+        top =a+b;
+        System.out.println(top);
+
     }
 
     private void initUI() {
